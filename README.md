@@ -15,6 +15,12 @@ The [Tank Controller](https://github.com/Open-Acidification/TankController) proj
     * Navigate to your local repo location and select `Half_Shield.pro` project file.
 1. View the PCB.
 
+## Release
+
+Each release has the appropriate binary Gerber (`.gbr`) and Drill (`.drl`) to be sent to the PCB board printing company.
+
+We may have extra printed. Please [contact us](https://gab.wallawalla.edu/~kirt.onthank/) for details.
+
 ## Notes
 
 * The current release was made a while ago and a new version of KiCad is now available. When you open the project, the software will ask to update the project.
